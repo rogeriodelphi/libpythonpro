@@ -10,7 +10,7 @@ Link para o curso [Python Pro](https://www.python.pro.br)
 [![Updates](https://pyup.io/repos/github/rogeriodelphi/libpythonpro/shield.svg)](https://pyup.io/repos/github/rogeriodelphi/libpythonpro/)
 [![Python 3](https://pyup.io/repos/github/rogeriodelphi/libpythonpro/python-3-shield.svg)](https://pyup.io/repos/github/rogeriodelphi/libpythonpro/)
 
-Suportada versão 3 de Python
+Suportada versão 3 de Python.
 
 Para Instalar:
 
